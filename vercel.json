@@ -1,0 +1,11 @@
+{
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/games",
+      "destination": "https://seonn.dev/games"
+    }
+  ]
+}
