@@ -11,5 +11,14 @@
   ],
   "category": "디펜스",
   "createdAt": "2026-10",
-  "featured": true
+  "featured": true,
+  "playUrl": "https://banner-war.vercel.app",
+  "githubUrl": "https://github.com/inhyk/banner-war",
+  "repo": "inhyk/banner-war",
+  "thumbnail": "/images/games/banner-war-thumb.png",
+  "screenshots": [
+    "/images/games/banner-war-1.png",
+    "/images/games/banner-war-2.png",
+    "/images/games/banner-war-3.png"
+  ]
 }
